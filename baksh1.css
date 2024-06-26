@@ -1,0 +1,160 @@
+@font-face {
+    font-family: "iransans";
+    src: url(./font/IranianSans.ttf);
+}
+
+.koli1 {
+    border: 1px solid #c0c2c5;
+}
+
+.takhfif1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.haraj1 {
+    background-color: transparent;
+    color: black;
+    border: 1px hidden transparent;
+    font-size: 29px;
+    font-weight: 500;
+    margin-left: 8px;
+    display: block;
+}
+
+.gheymat1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.mobile1 {
+    border: 1px solid #c0c2c5;
+    padding: 12 16;
+    object-fit: cover;
+    width: 193px;
+    height: 210px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: start;
+    transition-duration: 0.15s;
+}
+
+.aksmobile1 {
+    overflow: hidden;
+    position: relative;
+    border-radius: 8px;
+    height: 130px;
+    width: 130px;
+    display: inline-block;
+    cursor: pointer;
+}
+
+.matnmobile1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.takhfif28 {
+    color: #3f4064;
+    font-size: 18px;
+    font-weight: 700;
+    display: block;
+    cursor: pointer;
+}
+
+.toman28 {
+    color: #424750;
+    font-size: 18px;
+    font-weight: 700;
+    display: block;
+    cursor: pointer;
+}
+
+.darsad28 {
+    background-color: #d32f2f;
+    color: #fff;
+    padding: 4px;
+    border-radius: 16px;
+    height: 20px;
+    width: 34px;
+    font-size: 14px;
+    font-weight: 700;
+    text-align: center;
+    display: block;
+    cursor: pointer;
+}
+
+.kamshode28 {
+    color: #c0c2c5;
+    font-size: 14px;
+    font-weight: 400;
+    display: flex;
+    flex-direction: column;
+    margin-right: 203px;
+    cursor: pointer;
+}
+.mobile1-1:hover {
+background-color: #9370db;
+}
+.mobile1-2:hover {
+    background-color: #87ceeb;
+}
+.mobile1-3:hover {
+    background-color: #00bfff;
+}
+.mobile1-4:hover {
+    background-color: #1e90ff;
+}
+.mobile1-5:hover {
+    background-color: #ffd700;
+}
+.mobile1-6:hover {
+    background-color: #f0f;
+}
+.mobile1-7:hover {
+    background-color: #696969;
+}
+.mobile1-8:hover {
+    background-color: #9932cc;
+}
+.mobile1-9:hover {
+    background-color: #40e0d0;
+}
+.mobile1-10:hover {
+    background-color: #deb887;
+}
+.mobile1-11:hover {
+    background-color: #0f0;
+}
+.mobile1-12:hover {
+    background-color: #ffff00;
+}
+.mobile1-13:hover {
+    background-color: #ff1493;
+}
+.mobile1-14:hover {
+    background-color: #8b008b;
+}
+.mobile1-15:hover {
+    background-color: #a0522d;
+}
+.mobile1-16:hover {
+    background-color: #6b8e23;
+}
+.mobile1-17:hover {
+    background-color: #fa8072;
+}
+.mobile1-18:hover {
+    background-color: #dcdcdc;
+}
+

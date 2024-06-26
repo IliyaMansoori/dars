@@ -1,0 +1,58 @@
+@font-face {
+    font-family: "iransans";
+    src: url(./font/IranianSans.ttf);
+}
+.koleajnas{ 
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+flex-wrap: wrap;
+}
+.baksh2di {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.dastebandi22 {
+    font-size: 23px;
+    font-weight: 500;
+    text-align: center;
+    margin-left: 8px;
+    display: block;
+}
+.ghesmatbandi {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.lavazem3 {
+    object-fit: contain;
+    height: 130px;
+    width: 183px;
+    display: inline-block;
+    overflow: hidden;
+    position: relative;
+    cursor: pointer;
+}
+.icondigi {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.matnlavazem1 {
+    color: #0c0c0c;
+    font-size: 18px;
+    font-weight: 700;
+    text-align: center;
+    margin-top: 8px;
+    margin-left: 8px;
+    display: -webkit-box;
+    cursor: pointer;
+}

@@ -1,0 +1,60 @@
+body {
+    background-color: #1B2C51;
+}
+.finishny {
+    display: flex;
+    flex-direction: row;
+    justify-content:space-e;
+    align-items: flex-start;
+    flex-wrap: wrap;
+}
+.allny {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.h2addr {
+    color: #EFF5FF ;
+    margin-bottom: 24px;
+    font-size: 40px;
+    font-weight: 700;
+    display: block;
+}
+.newstr {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.newyork {
+    color: #EFF5FF;
+    font-size: 20px;
+    font-weight: 400;
+    margin-bottom: 8px;
+    margin-left: 8px;
+    display: block;
+}
+.emailbut {
+    background-color: #fff;
+    color: #8D8E92;
+    border: 2px solid #C7DCFB;
+    padding: 16px 24px;
+    border-radius: 8px;
+    text-align: start;
+}
+.submitem {
+    background-color: #0463FA;
+    color: #fff;
+    border: 1px solid #0463FA;
+    padding: 8px 12px;
+    border-radius: 8px;
+    font-weight: 500;
+    align-items: flex-start;
+    text-align: center;
+    margin-top: 8px;
+    margin-right: 8px;
+    cursor: pointer;
+}

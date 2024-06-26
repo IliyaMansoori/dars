@@ -1,0 +1,75 @@
+.allkilinik {
+    background-color: #fff;
+    border: 2px hidden transparent;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: nowrap;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    position: sticky;
+}
+
+.brand2 {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    flex-wrap: wrap;
+    width: 35%;
+}
+.allspp {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    margin-left: 93.9375px;
+}
+.kilinik1 {
+    color: #0463FA;
+    font-size: 60px;
+    padding: 25px 0px;
+    font-weight: 700;
+    display: block;
+    cursor: pointer;
+}
+
+.home2 {
+    color: #0463FA;
+    padding: 25px 0px;
+    font-size: 30px;
+    font-weight: 500;
+    margin-right: 30px;
+    display: block;
+    cursor: pointer;
+}
+.home2:hover {
+    color: #0463FA;
+}
+.navsp {
+    color: #1B2C51;
+    padding: 25px 0px;
+    font-size: 30px;
+    font-weight: 500;
+    margin-right: 30px;
+    display: block;
+    cursor: pointer;
+}
+.navsp:hover {
+    color: #0463FA;
+}
+.appointment {
+    background-color: #0d6efd;
+    color: #fff;
+    border: 1px solid #0d6efd;
+    padding: 24px 100px;
+    font-size: 30px;
+    font-weight: 500;
+    text-align: center;
+    display: block;
+    cursor: pointer;
+    transition: 0.5s;
+}
+.appointment:hover {
+    background-color: #0463FA;
+}
